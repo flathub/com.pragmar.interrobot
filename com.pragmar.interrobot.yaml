@@ -51,5 +51,5 @@ modules:
 
       # x86_64 InterroBot build
       - type: archive
-        url: https://interro.bot/media/uploads/bin/interrobot-2.10.0.1.tar.gz
-        sha256: 4eba868f6ff53b47ea103f817ec344e621703745fe78649a87fbd9e27ff6a35a
+        url: https://interro.bot/media/uploads/bin/interrobot-2.10.1.0.tar.gz
+        sha256: 71fff9160252a7bde5e323b92531decd7e1a90578f396a576fa5fb70e72b10be
