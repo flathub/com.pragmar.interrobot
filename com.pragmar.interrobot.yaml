@@ -3,6 +3,8 @@ runtime: org.gnome.Platform
 runtime-version: '50'
 sdk: org.gnome.Sdk
 command: interrobot
+tags: 
+  - proprietary
 
 finish-args:
 
