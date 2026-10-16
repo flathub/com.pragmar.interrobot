@@ -1,6 +1,6 @@
 app-id: com.pragmar.interrobot
 runtime: org.gnome.Platform
-runtime-version: '50'
+runtime-version: '51'
 sdk: org.gnome.Sdk
 command: interrobot
 tags: 
@@ -53,5 +53,5 @@ modules:
 
       # x86_64 InterroBot build
       - type: archive
-        url: https://interro.bot/media/uploads/bin/interrobot-2.13.0.0.tar.gz
-        sha256: 2a193372d40e0f0b6b97d3cb4f25d5ef7d55d6bf3f8e7394e0fb626c54ffba7d
+        url: https://interro.bot/media/uploads/bin/interrobot-2.15.0.0.tar.gz
+        sha256: fea298b19cb7ab5063cf1f1a26e59842010fa9505052f064ff1cc04f86d402a3
